@@ -1,3 +1,12 @@
+node_modules
+dist
+.DS_Store
+*.local
+.env
+.env.*
+npm-debug.log*
+.vscode
+.idea
 node_modules/
 .next/
 dist/
