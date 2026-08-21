@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main, mansion-of-the-dead-a3196]
   workflow_dispatch:
 
 permissions:
